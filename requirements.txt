@@ -1,0 +1,8 @@
+gymnasium
+minigrid
+numpy
+stable-baselines3
+tensorboard
+torch
+torchvision
+tqdm
