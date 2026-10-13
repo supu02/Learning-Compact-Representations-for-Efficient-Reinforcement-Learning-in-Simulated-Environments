@@ -1,5 +1,21 @@
-envs/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editors
 .DS_Store
 .ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Generated experiment artifacts
+data/frames/
+data/logs/
+saved_models/
